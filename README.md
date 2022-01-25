@@ -1,6 +1,6 @@
 # :chart_with_upwards_trend: Sales-EDA-Analysis :chart_with_upwards_trend:
 
-This is a project to analyze the sales of a major retailer from 2010 to 2020.
+This is a project of analysing the sales of a major retailer from 2010 to 2020.
 
 First, the dataset was cleaned up, new characteristics and columns were added. Then the analysis of sales by regions, years, product requirements, etc. was carried out, the results were visualized (using matplotlib and seaborn).
 
