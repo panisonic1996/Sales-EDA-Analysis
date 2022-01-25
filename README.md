@@ -2,9 +2,9 @@
 
 This is a project to analyze the sales of a major retailer from 2010 to 2020.
 
-First, the dataset was cleaned up, new characteristics and columns were added. Then the analysis of sales by regions, years, product requirements, etc. was carried out, the results were visualized (using matplotlib and seaborn)
+First, the dataset was cleaned up, new characteristics and columns were added. Then the analysis of sales by regions, years, product requirements, etc. was carried out, the results were visualized (using matplotlib and seaborn).
 
-After analyzing the dataset, it was found:
+##### :bar_chart: After analyzing the dataset, it was found:
  - Between 2010 and 2019, there is no significant difference in sales volume, in 2020 sales volume decreased relative to previous periods.
  - The largest sales markets are Europe and Sub-Saharan Africa, the smallest - North America.
  - Online and offline volumes differ slightly.
