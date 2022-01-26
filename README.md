@@ -15,8 +15,13 @@ First, the dataset was cleaned up, new characteristics and columns were added. T
 Link to repository with dataset:
 https://drive.google.com/drive/folders/1wp_8opKjL35q-lAfPcLgkOA9U4jTu7lX?usp=sharing
 
-*Raw dataset was taken from website:
+*Raw dataset was taken from website:*
 https://eforexcel.com/wp/
 
+**Technologies:**
 
+ Language: Python;
+ 
+ Libraries: pandas, numpy, matplotlib, seaborn.
+ 
 
